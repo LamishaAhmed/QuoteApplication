@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyQuoteApp</string>
+
+    <string name = "q1">"You define your own life. Don't let other people write your script." ~ Oprah Winfrey</string>
+    <string name = "q2">"Don’t wait. The time will never be just right." ~ Napoleon Hill</string>
+    <string name = "q3">“You can, you should, and if you’re brave enough to start, you will.” ~ Stephen King</string>
+    <string name = "q4">“The only place where your dream becomes impossible is in your own thinking.” ~ Robert H Schuller</string>
+    <string name = "q5">“To live is the rarest thing in the world. Most people exist, that is all.” ~ Oscar Wilde</string>
+    <string name = "q6">“Spread love everywhere you go.” ~ Mother Teresa</string>
+    <string name = "q7">“Problems are not stop signs, they are guidelines. ”~ Robert Schuller</string>
+    <string name = "q8">“The future belongs to those who believe in the beauty of their dreams.” ~ Eleanor Roosevelt</string>
+    <string name = "q9">“Never do tomorrow what you can do today. Procrastination is the thief of time.” ~ Charles Dickens</string>
+    <string name = "q10">“Perfection is boring. Getting better is where all the fun is.” ~ Dragos Roua</string>
+    <string name = "q11">“Be happy for this moment. This moment is your life.” ~ Omar Khayyam</string>
+    <string name = "q12">“We build too many walls and not enough bridges.” ~ Isaac Newton</string>
+    <string name = "q13">“Step out of the history that is holding you back. Step into the new story you are willing to create.” ~ Oprah Winfrey</string>
+    <string name = "q14">“Take responsibility of your own happiness, never put it in other people’s hands.” ~ Roy T. Bennett</string>
+    <string name = "q15">“To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.” ~ Ralph Waldo Emerson</string>
+    <string name = "q16">“We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.”~ Swami Vivekananda</string>
+    <string name = "q17">“To accomplish great things, we must not only act, but also dream, not only plan, but also believe.” ~ Anatole France</string>
+    <string name = "q18">“Opportunities don’t happen, you create them.” ~ Chris Grosser</string>
+    <string name = "q19">As we look ahead into the next century, leaders will be those who empower others.” ~ Bill Gates</string>
+    <string name = "q20">“Don’t walk in front of me; I may not follow. Don’t walk behind me; I may not lead. Just walk beside me and be my friend.” ~ Albert Camus</string>
+
+</resources>

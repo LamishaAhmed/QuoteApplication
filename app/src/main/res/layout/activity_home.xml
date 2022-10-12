@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Home"
+    android:background="@drawable/gradience"
+    >
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="379dp"
+        android:layout_height="599dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="81dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="81dp"
+        android:background="@drawable/homescreenlayout"
+        android:fontFamily="@font/open_sans_italic"
+        android:gravity="center"
+        android:text="The greatest glory in living lies not in never falling, but in rising every time we fall"
+        android:textColor="#263238"
+        android:textSize="28sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/refreshQuote"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="98dp"
+        android:layout_marginTop="439dp"
+        android:layout_marginEnd="80dp"
+        android:layout_marginBottom="112dp"
+        android:backgroundTint="#263238"
+        android:text="Get New Motivation"
+        android:textColor="#E0E0E0"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="@+id/textView2"
+        app:layout_constraintEnd_toEndOf="@+id/textView2"
+        app:layout_constraintStart_toStartOf="@+id/textView2"
+        app:layout_constraintTop_toTopOf="@+id/textView2" />
+</androidx.constraintlayout.widget.ConstraintLayout>
